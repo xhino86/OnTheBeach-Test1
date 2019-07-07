@@ -1,0 +1,6 @@
+C:\Users\Andi.M\Desktop\OnTheBeach-Manchester\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Andi.M\Desktop\OnTheBeach-Manchester\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Andi.M\Desktop\OnTheBeach-Manchester\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Andi.M\Desktop\OnTheBeach-Manchester\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Andi.M\Desktop\OnTheBeach-Manchester\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Andi.M\Desktop\OnTheBeach-Manchester\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
